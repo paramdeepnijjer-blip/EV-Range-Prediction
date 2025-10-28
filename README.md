@@ -40,6 +40,4 @@ The project also explores **trends in EV technology and adoption** through data 
 ## 🧾 Dataset
 Dataset: *Washington State EV Population Data (Cleaned version)*  
 Source: Washington State Department of Licensing (DOL) Open Data Portal  
-File used: `EV_Cleaned.csv`
-
-## 🔍 Project Structure
+File used: `EV_Cleaned.csv`, Download from (Download Cleaned Dataset (Google Drive) Link: https://drive.google.com/file/d/1PF14pQv7424hyIW2XWU6hY6YE8NzsNdx/view?usp=sharing
